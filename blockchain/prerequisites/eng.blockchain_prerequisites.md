@@ -12,7 +12,7 @@ Now a lot of people connecting this term to the money. It's happening only becau
 
 This learning of it - only result of proclamation and became slightly connected to matter of it. This understanding is wrong and blocking to use it.
 
-The "blockchain"- only the technology that is using for ensuring  additional level of data security and avoiding any attempt of data fraud. Need to mark especially - additional level, means not only "blockchain". Only because of main property of this technology - security improve, it became popular in financial, especially electronic financial solutions where huge ability to make the fraud from begin.
+The "blockchain" - only the technology that is using for ensuring  additional level of data security and avoiding any attempt of data fraud. Need to mark especially - additional level, means not only "blockchain". Only because of main property of this technology - security improve, it became popular in financial, especially electronic financial solutions where huge ability to make the fraud from begin.
 
 Next one delusion - "blockchain" new and modern technology. It's wrong again. The best example of using it might be found in early 2000th. The Mercedes, BMW, Toyota, Cadillac started to use it for avoiding fraud for car millage. It looks like the millage value stored in couple of sensors hidden in the body of the car and the value that we see on odometer is the result of calculation of values from couple of sensors equipped within memory. Does it looks familiar?
 
