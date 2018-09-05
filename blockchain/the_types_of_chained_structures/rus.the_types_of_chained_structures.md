@@ -30,7 +30,7 @@
 
 При разработке матричных структур можно привести бесконечное множество таких примеров.
 
-4) Organic
+**4) Organic**
 
 ![](https://raw.githubusercontent.com/ArboreusSystems/arboreus_articles/master/blockchain/the_types_of_chained_structures/illustrations/blockchain_005.png)
 
