@@ -1,6 +1,6 @@
 # Blockchain example. Connected servers, client-server implementation.
 
-This example based on what has been done almost 10 year ago on the principle "just for fun". This It-joke is most illustrious example for explaining the blockchain implementation into server-server or client-server interaction or data exchange.
+This example based on what has been done almost 10 year ago on the principle "just for fun". This IT-joke is most illustrious example for explaining the blockchain implementation into server-server or client-server interaction or data exchange.
 
 Technically in this example nothing complex or new:
 
@@ -39,9 +39,9 @@ At first glance it might be appeared without any connection between servers inte
 
 Does it looks more understandable after image above?
 
-In case of music - the group is musicians that is using language  (the blocked sequence of symbols within meaning of properties of sound source frequency and duration) and for the case of servers - protocol for interaction between clients and other servers (the blocked sequence of electric signals, that is on upper level transforming into the human-friendly form).
+In other words, the sequence of activation the sound source - is the "chain" of elements, where the elements is the states of sound source (on/off), where the "block" is the musical composition (sequence of states) that fixed by composer in following of his own idea and described by musical notations (protocol) for further reproducing it by other sources of any sounds by musicians (the objects that have known protocol and equipped by sound source) in precise that composer decided. If you change this sequence, for Beethoven's "Moonlight Sonata" became not the "Moonlight Sonata", it might whatever else.
 
-If you don't know language - the information will be looking for you like "white noice" without any sense.
+How the all of it connected to server-to-server connection or server-client connection? By making chain of the packets blocked by idea to be fitted to the action of server application. You might to create own protocol that is based on blocked sequence of packets assigned to defined server application actions.
 
 ![](https://raw.githubusercontent.com/ArboreusSystems/arboreus_articles/master/blockchain/bc_example_connected_servers/illustrations/blockchain_016.png)
 
