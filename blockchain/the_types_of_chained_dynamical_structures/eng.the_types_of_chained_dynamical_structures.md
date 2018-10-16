@@ -1,1 +1,0 @@
-# eng.the_types_of_chained_dynamical_structures.md
