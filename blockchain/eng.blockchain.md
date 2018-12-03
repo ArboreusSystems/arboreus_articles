@@ -5,7 +5,7 @@ The series of articles about blockchain solution that is illustrating examples f
 * [Prerequisites](https://github.com/ArboreusSystems/arboreus_articles/blob/master/blockchain/prerequisites/eng.blockchain_prerequisites.md): the income info about blockchain term and the short of history of it
 * [Understanding Blockchain](https://github.com/ArboreusSystems/arboreus_articles/blob/master/blockchain/understanding_blockchain/eng.understanding_blockchain.md): the description of what is blockchain
 ```
-Tha author note. Currently we've got a huge 
+The author note. Currently we've got a huge 
 risk of getting blockchain fundamental 
 technology to be compromised because of 
 finantial fraud covered by this term. 
