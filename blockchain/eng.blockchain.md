@@ -8,7 +8,7 @@ The series of articles about blockchain solution that is illustrating examples f
 The author note. Currently we've got a huge 
 risk of getting blockchain fundamental 
 technology to be compromised because of 
-finantial fraud covered by this term. 
+financial fraud covered by this term. 
 The blockchain technology doesn't responsible 
 if someone decided to use it for fraud.
 ```
