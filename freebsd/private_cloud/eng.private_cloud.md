@@ -5,7 +5,7 @@ This article based on real world experience of organising private cloud computin
 * the developers test environment equipped by ability to automate HUGE list of tests for different kind of applications: servers load tests, UI application test and etc 
 * the web-design agency kind of private hosting provider for small companies holding 
 * the university computation cluster and studying environment for students within ability to provide at least one server instance for every student 
-* medical company purposed to care about huge amount of installed application required o be used by regulations 
+* medical company purposed to care about huge amount of installed application required to be used by regulations 
 * etc 
 
 First of all - What doest it mean "cloud". In accordance of definition in public resources it looks like sharing resources of one server through the couple of users. In [Wiki](https://en.wikipedia.org/wiki/Cloud_computing) you might to find explanation and historical approach to this term.
