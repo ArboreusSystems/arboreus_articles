@@ -55,4 +55,4 @@ The documentation for installing every part of this schema might  be gotten from
 * [Install Jenkins](https://wiki.jenkins.io/display/JENKINS/FreeBSD)
 * [SSH plugin for Jenkins](https://wiki.jenkins.io/display/JENKINS/SSH+plugin)
 
-Beside all of it you might to get non official documentation about how-to-manage this kind of issues. If after all of this articles you need assistance you might be contacted to authors of this article via daemon.arboreus(a)gmail.com for consulting.
+Beside all of it you might to get non official documentation about how-to-manage this kind of issues. If after all of this articles you need assistance you might be contacted to authors of this article via daemon.arboreus(a)gmail.com for consulting or you might to hire the author of this article.
