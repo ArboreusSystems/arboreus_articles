@@ -24,7 +24,7 @@ In all of any cases, the reason of why you are storing data ONLY ONE - something
 
 The unresolved or unfinished issues might be limited by time (in IT we are naming it like functions or procedures) or be unlimited (in IT we are naming it like service, daemon or process). The processes itself might be contained the subprocess, subprocess might be contained another subprocesses. The article ["Understanding Blockchain"](https://github.com/ArboreusSystems/arboreus_articles/blob/master/blockchain/understanding_blockchain/eng.understanding_blockchain.md) describing the principle of structure organising. 
 
-The time of data-alive-limit is always biggest value from any process or subprocess that related to this data. This is the reason why is so important to understand the structure of it in real world. Based on it you will project the storage size, data storage cleaning procedures - as result of it the price for building and maintaining data storage. He actors that involved to the process will require you to develop access to the data and how rapid this data should be extracted from storage out.
+The time of data-alive-limit is always biggest value from any process or subprocess that related to this data. This is the reason why is so important to understand the structure of it in real world. Based on it you will project the storage size, data storage cleaning procedures - as result of it the price for building and maintaining data storage. The actors that involved into the process will require you to develop access to the data and how rapid this data should be extracted from storage out.
 
 ```
 Author notice.
@@ -35,9 +35,10 @@ the point where you are considering carefully about how you
 organised process and why this process is stubbing you by this
 amount of data. 
 May be the problem of solving Big Data storages should be
-started from "Why do you have so much data?" and optimise it first in real world?
+started from "Why do you have so much data?" and optimise it
+first in real world?
 ```
 
 Based on experience of developing data storages you always have to add kind of reserved size for ability to handle avalanche-like data size growing. Usually it 30%-40% for one-unit storage and for distributed storage it's 3%-25%. The reserve size is depend on company ability to adopt the size of storage for the level of increased data size, if you need more time for reaction - add more reserve to storage.
 
-The process of developing of the data storage structure usually contain 90% of issues do not related to the IT at all. In most cases it looks like cooperation between two persons: one IT socialist another the highly experienced person from the field where this storage going to be used. There are a lot of issues that is always using in any field, but one small special issue from field might to make almost impossible to use universal data storage solution.
+The process of developing of the data storage structure usually contain 90% of issues do not related to the IT at all. In most cases it looks like cooperation between two persons: one IT specialist another the highly experienced person from the field where this storage going to be used. There are a lot of issues "in general" that is always using in any field, but one small special issue from one special field might to make almost impossible to use "in general" data storage solution.
