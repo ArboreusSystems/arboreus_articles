@@ -1,6 +1,8 @@
 # Understanding vessel IT
 
-Any vessel at sea looking like world in the world that is living in following theirs own codes, rules and traditions. For someone who has no any connection to sea-life might be looking very strange, for example one day onboard might be 25 hours another might be 23. For someone who is living onboard this things is normal. The length of the day onboard depend on direction where you are sailing and timezone changing.
+Any vessel at sea looking like world in the world that is living in following theirs own codes, rules and traditions and the main point - vessels living remote. They are guests at ports. 
+
+For someone who has no any connection to sea-life might be looking very strange, for example one day onboard might be 25 hours another might be 23. For someone who is living onboard this things is normal. The length of the day onboard depend on direction where you are sailing and timezone changing.
 
 Like any world the vessel's world living in following theirs own codes. For understanding the IT technology you have to make clear the huge list of this codes. Most of them is under [IMO](http://www.imo.org/en/About/Pages/Default.aspx) regulations:
 
