@@ -3,7 +3,7 @@
 Цикл статей посвященный использованию IT технологий на судах любого назначения. Основано на реальном опыте применения, автору статей удалось совместить опыт разработки в IT сфере с реальным опытом работы в море.
 
 * [Понимание судовых IT технологий](https://github.com/ArboreusSystems/arboreus_articles/blob/master/it_notice_for_mariners/undestanding_vessel_it/rus.understanding_vessel_it.md)
-* [(IN PROGRESS) Общая схема IT инфраструктуры на судне](https://github.com/ArboreusSystems/arboreus_articles/blob/master/it_notice_for_mariners/vessel_it_infrastructure/rus.vessel_it_infrastructure.md)
+* [Общая схема IT инфраструктуры на судне](https://github.com/ArboreusSystems/arboreus_articles/blob/master/it_notice_for_mariners/vessel_it_infrastructure/rus.vessel_it_infrastructure.md)
 * [(IN PROGRESS) Информационная безопасность на судах](https://github.com/ArboreusSystems/arboreus_articles/blob/master/it_notice_for_mariners/vessel_informational_security/rus.vessel_informational_security.md)
 * [(IN PROGRESS) Альтернативный Internet на судне](https://github.com/ArboreusSystems/arboreus_articles/blob/master/it_notice_for_mariners/alternative_internet_connection/rus.alternative_internet_connection.md)
 * [(IN PROGRESS) VPN на судне](https://github.com/ArboreusSystems/arboreus_articles/blob/master/it_notice_for_mariners/organising_vessel_vpn/rus.organising_vessel_vpn.md)
