@@ -4,7 +4,7 @@ This series of articles about IT in vessels. Based on real experience of develop
 
 * [Understanding Vessel IT](https://github.com/ArboreusSystems/arboreus_articles/blob/master/it_notice_for_mariners/undestanding_vessel_it/eng.understanding_vessel_it.md)
 * [Vessel IT Infrastructure](https://github.com/ArboreusSystems/arboreus_articles/blob/master/it_notice_for_mariners/vessel_it_infrastructure/eng.vessel_it_infrastructure.md)
-* [(IN PROGRESS) Vessel Informational Security](https://github.com/ArboreusSystems/arboreus_articles/blob/master/it_notice_for_mariners/vessel_informational_security/eng.vessel_informational_security.md)
+* [Vessel Informational Security](https://github.com/ArboreusSystems/arboreus_articles/blob/master/it_notice_for_mariners/vessel_informational_security/eng.vessel_informational_security.md)
 * [(IN PROGRESS) Alternative Internet Connection](https://github.com/ArboreusSystems/arboreus_articles/blob/master/it_notice_for_mariners/alternative_internet_connection/eng.alternative_internet_connection.md)
 * [(IN PROGRESS) Vessel VPN](https://github.com/ArboreusSystems/arboreus_articles/blob/master/it_notice_for_mariners/organising_vessel_vpn/eng.organising_vessel_vpn.md)
 * [(IN PROGRESS) Vessel Firewall/SQUID](https://github.com/ArboreusSystems/arboreus_articles/blob/master/it_notice_for_mariners/vessel_firewall_squid/eng.vessel_firewall_squid.md)
