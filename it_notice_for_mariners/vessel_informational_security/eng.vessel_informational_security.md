@@ -30,13 +30,18 @@ You might to check the Operation System that used onboard on this site [www.cved
 ```
 The author notice.
 At time of contract in 2015 been very surprised by fact of
-using Windows XP like background for the last and modern generation of navigational system that is uniting all of
+using Windows XP like background for the last and modern
+generation of navigational system that is uniting all of
 navigational resources in one. Beside all of it there was
 totally opened data transferring over network between parts 
 of this navigational system.
-For the question "Why this?" got reply: "Because there are huge code inheritance and no-one will rebuild it". This reply very illustrious for understanding when this kind of systems been planing for developing. The informational technology moved
+For the question "Why this?" got reply: "Because there are huge
+code inheritance and no-one will rebuild it". This reply very
+illustrious for understanding when this kind of systems been
+planing for developing. The informational technology moved
 far far forward.
-After this dialog between author and vendor support there were more same OS discovering in modern vessels.
+After this dialog between author and vendor support there were
+more same OS discovering in modern vessels.
 ```
 
 Partly this problem might be solved by [organising vessel VPN](https://github.com/ArboreusSystems/arboreus_articles/blob/master/it_notice_for_mariners/organising_vessel_vpn/eng.organising_vessel_vpn.md) but never the less if your operational system vulnerable the vessel system vulnerable too.
