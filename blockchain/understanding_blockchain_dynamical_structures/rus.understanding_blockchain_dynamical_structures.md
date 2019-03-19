@@ -21,3 +21,7 @@
 Динамические blockchain структуры обходится значительно дешевле в обслуживании, чем постоянный пересчёт состояние статической структуры. [Пример построения динамической структуры "Event Flow"](https://github.com/ArboreusSystems/arboreus_articles/blob/master/blockchain/bc_example_event_flow/rus.bce_events_flow.md)
 
 В этом примере использована 2D модель организации структуры, в ключе распределенных систем возможно исполнение 3D структур где дополняется связь с другими таблицами расположенными различных серверах.
+
+Следите за обновлениями автора в [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/).
+
+Следите за AR|BO|RE|US обновлениями в [**Twitter**](https://twitter.com/ArboreusSystems) в [**Linkedin**](www.linkedin.com/company/arboreus-systems/).

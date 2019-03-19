@@ -51,3 +51,7 @@
 * и т.д.
 
 Основной задачей данной статьи было - показать несколько возможных типов структур (chain) для фиксации (block). Информацию о том как при помощи технологии blockchain защищать структуры от одного или нескольких видов опасности можно получить из статей ["Arboreus articles: blockchain"](https://github.com/ArboreusSystems/arboreus_articles/tree/master/blockchain).
+
+Следите за обновлениями автора в [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/).
+
+Следите за AR|BO|RE|US обновлениями в [**Twitter**](https://twitter.com/ArboreusSystems) в [**Linkedin**](www.linkedin.com/company/arboreus-systems/).

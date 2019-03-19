@@ -32,3 +32,7 @@ Paraphrasing the dictionaries in context of using it for building data storages 
 **Blockchain - is a structure that organised in special order, where every element of this structure connected to other by special algorithm when any attempt to change element of the structure will affect connected elements.**
 
 In other words - you don't able to change any element without affecting others. The structure of relations between elements is the block for chain of the elements. Especially noticed that in blockchain definition not mentioned that is only for data storing, this approach might be used for a lot of cases.
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

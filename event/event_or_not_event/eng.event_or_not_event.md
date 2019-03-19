@@ -17,3 +17,7 @@ The conclusion about necessity of event driven system: if you need to care about
 Some examples when the event driven good and when not.
 
 Just imagine some kind of library where stored articles, novels, poems, etc. And this content might be used inside of restricted population of users - then for this solution is really bad idea to use events. But! When you need to care about logging of user activities and make a prospective analyze of content usage of billions articles by billions users - then use event's approach. It will save a lot of money at time of maintaining.
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

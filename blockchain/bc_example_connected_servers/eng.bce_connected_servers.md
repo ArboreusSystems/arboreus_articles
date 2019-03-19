@@ -52,3 +52,7 @@ The image above is illustrating logical schema of interaction between servers or
 How it works: the client is sending the zero-length packet to the defined port, server is performing action and returning to the client result of action. If you need complex sequence of packets you might to define schema of the ports in conjunction to UTF-8 and transmit the string without sending string in general at all. The schema of mapping ports for improving security might be changed periodically and it will looks like dynamically generating the language for interaction.
 
 In case of poor connection and high-load, especially for mobile developing this approach might be well enough solution for reducing traffic and improving security. At time of testing in some cases the traffic regression got 10 time less.
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

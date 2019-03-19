@@ -46,3 +46,7 @@ The same approach might be implemented for the case of memory allocated for appl
 This approach is rising attackers upon more difficulties or at least making time for attack recognition really less in case of implementing it into kind of heartbeat application module.
 
 And again this is not final unique solution for any case. Every case should be reasoned and got a clear understanding what is chain of element that need to be blocked.
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

@@ -22,3 +22,6 @@ The dynamical blockchain structures is a lot cheaper then in maintaining then st
 
 This example developed based on 2D schema of the data-structure. In case of distributed solution might be used 3D, when going to be added related table located anywhere else. The best option for developing this kind of solution is Erlang because it's donating distribution mechanism from begin.
 
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

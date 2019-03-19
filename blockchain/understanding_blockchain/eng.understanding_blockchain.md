@@ -34,3 +34,7 @@ If you are trying to fix statically dynamical object, you will always be require
 Every object on our planet has critical value - critical size, critical mass and etc.
 
 For avoiding of being self-stubbed we need to define the "idea". This "idea" will show what is statical and what is dynamical. And if we are creating statical - we are blocking statical structure, and if we are creating the dynamical object - we are fixing the formula of dynamic changing. Just imagine the situation when 3D Animation is using list of coordinates of positions of the objects instead of using mathematical formulas that is describing the object movement. Got an Imagination? Like it?
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

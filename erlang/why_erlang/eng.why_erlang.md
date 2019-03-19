@@ -18,3 +18,7 @@ Briefly, the explanation of "Why Erlang?" might be something like this - **THE L
 Beside all of it there are ability to use this mechanism for distributing C/C++ applications. You might to get it by your own in article [Erlang NIF](http://erlang.org/doc/tutorial/nif.html). You might to develop application modules on C/C++ and using Erlang like wrapper for distributing.
 
 Based on experience of developing distributed applications - the  best way to use Erlang like primary language (the developing on Erlang is really faster then on any other) and if it not enough by any reason implement C/C++ modules. In case of necessity you might to write out the wrapper on C/C++ that will allow you to use Java application. But! It will look like trying to motivate turtle to improve the speed for the level of Formula 1.
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

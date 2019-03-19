@@ -80,3 +80,7 @@ Some futurology. Just imagine that there are universal and international standar
 ### Conclusion
 
 This article contain only few main problems describing. There are much more problems but most of them related to the global informational technology gap for vessels. Without solving this gap might be not possible to solve new problems at all.
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

@@ -42,3 +42,7 @@ first in real world?
 Based on experience of developing data storages you always have to add kind of reserved size for ability to handle avalanche-like data size growing. Usually it 30%-40% for one-unit storage and for distributed storage it's 3%-25%. The reserve size is depend on company ability to adopt the size of storage for the level of increased data size, if you need more time for reaction - add more reserve to storage.
 
 The process of developing of the data storage structure usually contain 90% of issues do not related to the IT at all. In most cases it looks like cooperation between two persons: one IT specialist another the highly experienced person from the field where this storage going to be used. There are a lot of issues "in general" that is always using in any field, but one small special issue from one special field might to make almost impossible to use "in general" data storage solution.
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

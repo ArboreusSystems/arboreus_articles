@@ -40,3 +40,7 @@ All of this 4 points described all that you need from the technical stack for or
 The basis of it - UNDERSTANDING THAT YOU GOING TO GROW UP AND THEREFORE YOU INCLUDING SCALING MECHANISM FROM BEGIN. It's not so expensive and not so difficult even for small startup. It's only your own position towards the developing process.
 
 This article hasn't been explaining all of details of this project realisation, there are huge list. It was only idea explanation. If you have questions - contact the author [Alexandr Kirilov](https://www.linkedin.com/in/alexandr-kirilov-3365b992/).
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

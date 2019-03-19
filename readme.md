@@ -16,3 +16,7 @@ In case of using any materials from this repository - follow license. Any kind o
 If you find any grammar mistakes or any other inaccuracy - do not hesitate to notice about it the owners of this repository. We will gladly analyze your notice and if it need correct it.
 
 Always opened for any kind of discussion related to our specialisation.
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

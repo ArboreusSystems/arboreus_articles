@@ -80,3 +80,6 @@ After separating onto these tables we are able to independently create and perfo
 
 All of this means that we have to use a couple of tables instead of one and the structure of every table is unique. There is not any DB suited now for this use case "in-box". All of this has to be developed.
 
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

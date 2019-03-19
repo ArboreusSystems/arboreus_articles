@@ -38,3 +38,7 @@ From the point of view of this article, well developed event driven system has t
 - secured client side solution 
 
 All of points of this article based on previous articles published by me over here. You might to read it.
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

@@ -59,3 +59,7 @@ There are huge list of examples of Organic structures:
 There might be developed of defined huge variations of the structure. The structure's schema is depend only on "idea". To describe every possible variation of the structure - not the goal of this article. The goal of this article is to show that this structure based on "idea" is the start point for developing blocked chain for you own necessity.
 
 The additional information about blockchain might be gotten from  the ["Arboreus articles: blockchain"](https://github.com/ArboreusSystems/arboreus_articles/tree/master/blockchain).
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

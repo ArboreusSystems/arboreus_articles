@@ -53,3 +53,7 @@ The next important point of this approach - method of writing and fixing data in
 In case of using BSD License based DB engine, you might to improve the DB engine and add the trigger for maximum time for transaction and if time exited it will drop attempt of changing out.
 
 This solution do not totally excluding the ability of fraud. It's getting you more time for acting against it in case of necessity.
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

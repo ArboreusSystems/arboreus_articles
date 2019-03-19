@@ -48,3 +48,7 @@ For solving this kind of informational problems need to be done:
 * developing informational code for using like protocol for building vessel information exchange models for the case of vessel - shore and inside vessel data exchange
 * developing platform that will contain all of standards and codes mentioned above, will be developed within meaning that "vessel" - the source of information and provide shipyards and vessel devices vendors the universal data exchange interface (for example, kind of MarinerBSD, based on FreeBSD, the reasons of choosing this OS described in articles ["Why FreeBSD?"](https://github.com/ArboreusSystems/arboreus_articles/blob/master/freebsd/why_freebsd/eng.why_freebsd.md) and in ["Vessel Informational Security"](https://github.com/ArboreusSystems/arboreus_articles/blob/master/it_notice_for_mariners/vessel_informational_security/eng.vessel_informational_security.md))
 * based on this platform create the technical requirements for vessel device vendors that will be looking like Plu&Play for computers but for vessel devices (the universal technical requirements will reduce price for maintenance and will reduce security risks too)
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

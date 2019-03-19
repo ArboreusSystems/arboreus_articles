@@ -54,6 +54,10 @@ Cloud computing is shared pools of configurable computer system resources.
 
 И огромное количество статей из неофициальных источников можно найти в интернете. По отдельности все задачи выполнялись неоднократно большим количеством людей, более того практически все cloud решения в интернете делают тоже самое.
 
+Следите за обновлениями автора в [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/).
+
+Следите за AR|BO|RE|US обновлениями в [**Twitter**](https://twitter.com/ArboreusSystems) в [**Linkedin**](www.linkedin.com/company/arboreus-systems/).
+
 
 
 

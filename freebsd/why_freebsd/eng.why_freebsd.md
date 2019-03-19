@@ -72,3 +72,7 @@ In case of developing highly secured solutions for storing data for long term st
 **Resume**
 
 The choosing FreeBSD has to be the reasoned choice. The FreeBSD will rise you more difficulties at time of start project but will rise you upon less expenses that you have to care at time of maintain. If you have no specialists equipped by enough level of knowledge or you not enough of resources to be studied it you are risking to get fail in using FreeBSD but in opposite direction it allow you develop very securable and reliable solution for your unique task.
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

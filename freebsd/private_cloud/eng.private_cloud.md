@@ -56,3 +56,7 @@ The documentation for installing every part of this schema might  be gotten from
 * [SSH plugin for Jenkins](https://wiki.jenkins.io/display/JENKINS/SSH+plugin)
 
 Beside all of it you might to get non official documentation about how-to-manage this kind of issues. If after all of this articles you need assistance you might be contacted to Arboreus Systems via daemon.arboreus(a)gmail.com for consulting or you might to hire the author of this article.
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

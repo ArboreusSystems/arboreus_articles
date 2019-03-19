@@ -20,4 +20,8 @@ if someone decided to use it for fraud.
 * [Blockchain example for Desktop/Mobile application](https://github.com/ArboreusSystems/arboreus_articles/blob/master/blockchain/bc_example_desktop_mobile_application/eng.bce_desktop_mobile_application.md): using blockchain in desktop/mobile application
 * [Blockchain example for servers interaction](https://github.com/ArboreusSystems/arboreus_articles/blob/master/blockchain/bc_example_connected_servers/eng.bce_connected_servers.md): the servers interaction example based on blockchained requests.
 
-If you need any kind of consulting for the case of developing your own blockchain solution for your own purpose - contact the Arboreus Team via daemon.arboreus(a)gmail.com.
+If you need any kind of consulting for the case of developing your own blockchain solution for your own purpose - contact the Arboreus Team via contact(a)arboreus.systems.
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

@@ -21,3 +21,7 @@ All points that is described in previous paragraph - have huge importance in und
 The problem of gap in maritime legislative - the start point for solving any kind of troubles related to the IT on vessels. For any kind of modern technology from our regular live might be blocked by maritime regulations. From one point of view, the conservatism of maritime law - isn't bad, it's ensuring safety at sea. But the problem is that shipping itself changing, but law - not.
 
 For now we have to start maritime codes, rules and conventions making adopted to the technology that we are using in real live. We have to start using term "vessel" in meaning "informational carrier" or "source of information". We have to adopt current tech (Navtex, AIS and etc) for the meaning of informational security. We have define the term "vessel informational or cyber security" first in some king of convention or at least to start prototyping the solution.
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)
